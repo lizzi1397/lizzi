@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Mi Moto Chopper</title>
+ <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+ <div class="contenedor">
+ <div class="moto">
+ <img src="moto-chopper-negra.jpg" alt="Moto Chopper Negra">
+ </div>
+ <div class="mensaje">
+ <h1>Te quiero mucho, cariño.</h1>
+ <p>Humberto, mi novio de ojos bonitos</p>
+ </div>
+ </div>
+</body>
+</html>
